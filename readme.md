@@ -9,11 +9,12 @@ Welcome to **C3D**, a minimalist programming language designed specifically for 
 
 ## Getting Started
 
-1. Clone this repository.
-2. Follow the included documentation to set up your build environment.
-3. Write your C3D programs using simple syntax and modules.
-4. Use the transpiler to convert C3D code into C++.
-5. Compile the generated C++ with your preferred toolchain. (tested on g++)
+1. Download one of the releases
+2. Extract the folder, and launch the compiler.
+3. Compile the demo.c3d
+4. Launch the Demo.exe and see the demo
+5. Enjoy and wait for updates
+
 
 ## Roadmap
 
