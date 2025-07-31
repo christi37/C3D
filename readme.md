@@ -18,7 +18,8 @@ Welcome to **C3D**, a minimalist programming language designed specifically for 
 
 ## Roadmap
 
-- Version 1.0: Currently being worked on
+- Version V1.0 Beta: Almost ready
+- Version V1.0 Release: Currently being worked on
 
 ## License
 
