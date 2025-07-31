@@ -4,12 +4,8 @@ Welcome to **C3D**, a minimalist programming language designed specifically for 
 
 ## Features
 
-- Modular system: Use `add moduleName;` to quickly include OpenGL, physics (Bullet), UI (ImGui), and more.
-- High-level 3D APIs: Create and manipulate 3D objects with simple commands instead of verbose boilerplate.
-- Event-driven structure: Write code in `on_init`, `on_update(dt)`, and `on_render` blocks.
-- Raw C++ embedding: Drop down to native C++ whenever you need fine control.
-- Focused on OpenGL 3.3 support for powerful and modern graphics.
-- Designed to be both beginner-friendly and powerful enough for advanced developers.
+- Modular system (or extensions): Use `add moduleName;` to quickly, easily add for example opengl330; or opengl3.3; faster and easier! check Extensions to see the current available extensions/modules
+
 
 ## Getting Started
 
